@@ -2,9 +2,8 @@ package com.quantox.quantox.service.impl;
 
 import com.quantox.quantox.Exception.ResourcenotFoundException;
 import com.quantox.quantox.model.Machine;
-import com.quantox.quantox.model.User;
 import com.quantox.quantox.repository.MachineRepository;
-import com.quantox.quantox.repository.UserRepository;
+
 import com.quantox.quantox.service.MachineService;
 
 public class MachineServiceimpl implements MachineService {
